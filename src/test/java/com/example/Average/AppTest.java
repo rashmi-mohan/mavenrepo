@@ -21,6 +21,6 @@ public class AppTest {
     }
     @Test
     public void averageofThreeNumber() {
-        assertEquals(5,app.AverageofThree(1, 2,3));
+        assertEquals(2,app.AverageofThree(1, 2,3));
     }
 }
